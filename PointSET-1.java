@@ -2,7 +2,6 @@
  *  Compilation:  javac PointSET.java
  *  Execution:
  *  Dependencies:
- *  Author: Axel; Smári
  *  Date: 13.október 2022
  *
  *  Data structure for maintaining a set of 2-D points,
